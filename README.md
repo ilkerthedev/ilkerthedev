@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=ilkerselimen&theme=tokyonight&hide_border=true&border_radius=4,5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,idea,git,github,vscode,discord&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,idea,git,github,vscode,discord&theme=dark)](https://skillicons.dev)
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ilkerselimen.visitor-badge&left_text=Profile%20views) 
 
