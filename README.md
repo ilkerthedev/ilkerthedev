@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ilkerselimen.visitor-badge&left_text=Profile%20views) 
 
-<a href="https://wakatime.com/%22%3E<img src="https://wakatime.com/share/@0f144fc0-8a07-44e0-8f3e-4ae3bfc710e1/5d1e914f-cefb-4c8d-b22e-d27b3bb912fe.png" /></a>
+<a href="https://wakatime.com/%22%3E<img src="https://wakatime.com/share/@094abaf6-7890-4b1e-9904-fa534d248a19/a5c79a0d-bdd6-47ca-948f-eb0dc6394906.svg" /></a>
 
 <a href="https://github.com/ilkerselimen/github-profile-trophy%22%3E
             <img src="https://github-profile-trophy.vercel.app/?username=ilkerselimen&row=1&column=7&theme=darkhub" alt="ilkerselimen" />
